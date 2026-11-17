@@ -1,5 +1,17 @@
 
 {
   "schema": 1,
-  "updates": []
+  "updates": [
+    {
+      "version": "0.2.0",
+      "files": [
+        {
+          "path": "AbyssWake.pck",
+          "url": "https://github.com/SoulR3aV3R99/abyss-wake-updates/releases/download/v0.2.0/AbyssWake.pck",
+          "sha256": "e359a3633cafe4950bd8de1278962281560b18a39312aa548de2801f8a056de8",
+          "size": 300401260
+        }
+      ]
+    }
+  ]
 }
