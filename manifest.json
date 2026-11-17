@@ -12,6 +12,17 @@
           "size": 300401260
         }
       ]
+    },
+    {
+      "version": "0.2.1",
+      "files": [
+        {
+          "path": "AbyssWake.pck",
+          "url": "https://github.com/SoulR3aV3R99/abyss-wake-updates/releases/download/v0.2.1/AbyssWake.pck",
+          "sha256": "6A2A8208C55F73C8811A06E1E5EE4AE31171E440D6FB40EA1A9799E75B4B20EC",
+          "size": 300404584
+        }
+      ]
     }
   ]
 }
