@@ -121,6 +121,25 @@
                                           "Обновена икона на AbyssCrystal",
                                           "Подобрено управление на трейлъра"
                                       ]
+                    },
+                    {
+                        "version":  "1.1.9",
+                        "tag":  "v1.1.9",
+                        "files":  [
+                                      {
+                                          "path":  "AbyssWake.pck",
+                                          "url":  "https://github.com/SoulR3aV3R99/abyss-wake-updates/releases/download/v1.1.9/AbyssWake.pck",
+                                          "sha256":  "01ba5ed80d764a877db42938a0e4207df4a69d607e2e3947c6208d576fa7bfc5",
+                                          "size":  361555884
+                                      }
+                                  ],
+                        "changelog":  [
+                                          "Оптимизирана работа на NPC в празните карти",
+                                          "Коригирани скорости на корабите и NPC",
+                                          "Балансирани противници в крайните карти",
+                                          "Обновена икона на AbyssCrystal",
+                                          "Подобрено управление на трейлъра"
+                                      ]
                     }
                 ]
 }
